@@ -7,7 +7,7 @@ Simpra .Net Bootcamp'inin ilk haftasının ödevi olarak eğitim boyunca kullan�
 <ol>
 <li> MSSQL Server</li>
 
-  ![github](week1hm_installation_of_requirements/MSSQL Server.png)
+  ![github](week1hm_installation_of_requirements/MSSQLServer.png)
 
 <li> PostgreSQL(Docker üzerine veya bilgisayarınıza) </li>
 
@@ -17,7 +17,7 @@ Simpra .Net Bootcamp'inin ilk haftasının ödevi olarak eğitim boyunca kullan�
 <ol>
 <li> MSSQL Managment Studio</li>
 
-  ![github](week1hm_installation_of_requirements/SQL Management Studio.png)
+  ![github](week1hm_installation_of_requirements/MSSQLManagementStudio.png)
 
 <li> PgAdmin4 veya DBeaver </li>
 
@@ -31,7 +31,7 @@ Simpra .Net Bootcamp'inin ilk haftasının ödevi olarak eğitim boyunca kullan�
 
 <li> Docker (Sonraki haftalarda kullanılacak) </li>
 
-  ![github](week1hm_installation_of_requirements/Docker Desktop.png)
+  ![github](week1hm_installation_of_requirements/DockerDesktop.png)
 </ol>
 
 
