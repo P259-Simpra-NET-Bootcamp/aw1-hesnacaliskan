@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/A1ovU9rv)
+
 # Assignment Week1
 ## Gerekli Kurulumların Yapılması 
 Simpra .Net Bootcamp'inin ilk haftasının ödevi olarak eğitim boyunca kullanılacak olan teknolojilerin kurulumu verildi. Repo içerisinde bir adet README dosyası, bir adet de kurulumların yapıldığına dair ekran çıktıları yer alan " week1hm_installation_of_requirements " adlı klasörü barındırıyor.
